@@ -9,7 +9,7 @@
     "@nivo/calendar": "^0.59.1",
     "apexcharts": "^3.10.1",
     "bootstrap": "4.3.1",
-    "chart.js": "2.8.0",
+    "chart.js": "2.9.4",
     "country-list": "^2.2.0",
     "d3": "^5.14.2",
     "devextreme": "^19.2.4",
